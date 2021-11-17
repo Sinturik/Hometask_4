@@ -16,7 +16,7 @@ public class GithubSelenideTest {
     }
 
     @Test
-    void PresenceSoftAssertionsPage(){
+    void PresenceSoftAssertionsPage() {
         //открыть сайт github.com
         open("https://github.com");
 
